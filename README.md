@@ -1,6 +1,6 @@
-========================================================================================
+==========================================
 Ionic Capacitor Sunmi T2 Inner Printer App
-========================================================================================
+==========================================
 README
 
 By:
@@ -10,7 +10,7 @@ Mary Grace Versoza
 
 Plugin based on: https://github.com/labibramadhan/cordova-sunmi-inner-printer
 
-=========================================================================================
+==========================================
 
 Download, extract, and install the zip file *cordova-plugin-sunmi-inner-printer* using npm
 
